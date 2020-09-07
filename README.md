@@ -1,6 +1,7 @@
 # Projeto de extensão - Robótica educacional - Univates
 
-Esse repositório contém o código que foi utilizando no vídeo sobre Arduino e Sensores. [Vídeo](https://www.youtube.com/channel/UCTlPBASwM2ZRvR5VivHdctg)
+Esse repositório contém o código que foi utilizando no vídeo sobre Arduino e Sensores. 
+[Vídeo mostrando como utilizar](https://www.youtube.com/channel/UCTlPBASwM2ZRvR5VivHdctg)
 
 ## Componentes e materiais
 
