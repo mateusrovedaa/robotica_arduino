@@ -15,6 +15,8 @@ Esse repositório contém o código que foi utilizando no vídeo sobre Arduino e
 - 01 (um) sensor ultrassônico
 
 ## Circuito
+Pode ser simulado [nesse link](https://wokwi.com/projects/388750902711987201).
+
 ![Circuito](circuito.png)
 
 ## Código
