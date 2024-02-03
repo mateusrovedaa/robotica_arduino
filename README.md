@@ -17,7 +17,7 @@ Esse repositório contém o código que foi utilizando no vídeo sobre Arduino e
 ## Circuito
 Pode ser simulado [nesse link](https://wokwi.com/projects/388750902711987201).
 
-![Circuito](circuito.png)
+![Circuito](circuito_wokwi.png)
 
 ## Código
 Você pode ver o código utilizado clicando [aqui.](https://github.com/mateusroveda/robotica_arduino/blob/master/sketch_sensorproximidade.ino)
